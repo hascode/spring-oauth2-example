@@ -30,7 +30,7 @@ Using Curl
    -d redirect_uri=http://www.hascode.com -d username=bar -d password=barsecret
 ```
 
-# Accessing the secured Resource
+## Accessing the secured Resource
 
 ```
    TOKEN = 'xxxxxxx'
@@ -39,7 +39,7 @@ Using Curl
 
 ---
 
-**2015 Micha Kops / hasCode.com**
+**2016 Micha Kops / hasCode.com**
 
    [my blog]:http://www.hascode.com/
    [Spring Boot]:http://projects.spring.io/spring-boot/
